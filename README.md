@@ -5,6 +5,12 @@ Built with **Tkinter** for the user interface and **Pillow (PIL)** for image pro
 
 
 
+
+![image_alt](https://github.com/khushbu0130/Image-Converter-GUI/blob/39479915c0ca3429d48028431276cfdfe2e876aa/Output.png)
+
+
+
+
 ## 🚀 Features
 
 - ✅ Lightweight and easy-to-use graphical interface  
@@ -20,7 +26,7 @@ Built with **Tkinter** for the user interface and **Pillow (PIL)** for image pro
 - **Tkinter** – for GUI  
 - **Pillow (PIL)** – for image handling  
 
----
+
 
 ## 📦 Installation
 
