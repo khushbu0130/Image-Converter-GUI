@@ -3,7 +3,7 @@
 A simple **Python GUI application** to convert PNG images into JPG format.  
 Built with **Tkinter** for the user interface and **Pillow (PIL)** for image processing.
 
----
+
 
 ## 🚀 Features
 
@@ -12,7 +12,7 @@ Built with **Tkinter** for the user interface and **Pillow (PIL)** for image pro
 - ✅ File dialog to easily select and save files  
 - ✅ Beginner-friendly Python project  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -62,8 +62,11 @@ Done! 🎉
 bash
 Copy code
 PNG-to-JPG-Converter/
+
 │
+
 ├── image_converter.py    
+
 └── README.md             
 
 
